@@ -37,7 +37,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"คุณต้องการซื้อยูนิตหรือใข้ยูนิตของคุณเอง?"
+ 	 	 	 	 	"เอ็งอยากซื้อยูนิต หรือ ใช้มันล่ะ?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -91,7 +91,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"คุณจะพบอุปกรณ์ที่ดีที่สุดที่นี่ เชื่อฉันสิ"
+ 	 	 	 	 	"ท่านจะเจออุปกรณ์ที่ดีที่สุดที่นี่ เชื่อข้าสิ."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"You will find the best gear here, trust me."
@@ -117,7 +117,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"ฉันจะช่วยให้คุณเข้าสู่พื้นที่ถัดไป!"
+ 	 	 	 	 	"ชั้นจะช่วยคุณข้ามไปยังพื้นที่ต่อไป!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -131,7 +131,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid... Come check out my goods."
+ 	 	 	 	 	"เฮ้ย เจ้าหนุ่ม... เข้ามาดูสินค้าหน่อยมั้ย."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"เฮ้ เจ้าหนู... มาดูสินค้าดีๆ ของฉันสิ"
@@ -149,7 +149,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Welcome. What can I store for you?"
+ 	 	 	 	 	"ยินดึต้อนรับ. อยากจะฝากอะไรล่ะ?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"ยินดีต้อนรับจ่ะ ฉันจะเก็บอะไรให้คุณได้บ้างจ้ะ?"
@@ -304,7 +304,7 @@
  	 	 	 	 	"eng": "Go to Shangri-La Commercial Area"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "คุณสามารถทำงาน AFK เพื่อเพิ่มระดับสกิลของคุณได้ที่นี่",
+ 	 	 	 	 	"trans": "คุณสามารถรับงาน AFK เพื่อเพิ่มระดับสกิลของคุณได้ที่นี่",
  	 	 	 	 	"eng": "You can complete AFK jobs to increase your skills here"
  	 	 	 	}
  	 	 	},
@@ -419,7 +419,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "เริ่มจากพื้นที่สำหรับเลเวล 1 ถึง 10",
+ 	 	 	 	"trans": "พื้นที่สำหรับเลเวล 1 ถึง 10",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"toZone": {
@@ -427,7 +427,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "ไปต่อตรงนี้เพื่อต่อสู้กับศัตรูเลเวล 1",
+ 	 	 	 	 	"trans": "ไปต่อเพื่อต่อสู้กับศัตรูเลเวล 1",
  	 	 	 	 	"eng": "Continue here to fight level 1 enemy"
  	 	 	 	},
  	 	 	 	"description": {
@@ -467,7 +467,7 @@
  	 	 	 	"eng": "Gang Headquarters"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[แก๊ง] \r\n         สำนักงานใหญ่สำหรับคุณและสมาชิกแก๊งของคุณเพื่อวางแผนและดำเนินการต่อไปของคุณ",
+ 	 	 	 	"trans": "[แก๊ง] \r\n         สำนักงานใหญ่สำหรับคุณและสมาชิกแก๊งของคุณเพื่อวางแผนและดำเนินการต่อไป",
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
@@ -506,7 +506,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "ชิ้นส่วนกุญแจลับ ใช้สำหรับกาบรูตฟอร์สกุญแจลับ\r\n                                ใช้เทอร์มินัลที่ศูนย์กลางเมือง [Hub] เพื่อคราฟท์กุญแจลับ ${segmentDisplayName} \r\n                                คุณสามารถตามหาชิ้นส่วนกุญแจทั้งสามได้ในแต่ละดันเจี้ยน(ทั้งแบบธรรมดาและแบบท้าทาย)\r\n                                เมื่อคุณได้รับชิ้นส่วนกุญแจทั้งสามแล้ว คุณสามารถใช้เทอร์มินัลบรูตฟอร์ส(คราฟท์) กุญแจเพื่อจะไปยังพื้นที่ถัดไปได้",
+ 	 	 	 	"trans": "ชิ้นส่วนกุญแจลับ ใช้สำหรับการคราฟท์กุญแจลับ\r\n                                ใช้เทอร์มินัลที่ศูนย์กลางเมือง [Hub] เพื่อบรูตฟอร์สกุญแจลับ ${segmentDisplayName} \r\n                                คุณสามารถตามหาชิ้นส่วนกุญแจทั้งสามได้ในแต่ละดันเจี้ยน(ทั้งแบบธรรมดาและแบบท้าทาย)\r\n                                เมื่อคุณได้รับชิ้นส่วนกุญแจทั้งสามแล้ว คุณสามารถใช้เทอร์มินัลบรูตฟอร์ส(คราฟท์) กุญแจเพื่อจะไปยังพื้นที่ถัดไปได้",
  	 	 	 	"eng": "A secret key Fragment used to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -729,7 +729,7 @@
  	 	},
  	 	"expMemory": {
  	 	 	"name": {
- 	 	 	 	"trans": "หน่วยความจำค่าประสบการณ์",
+ 	 	 	 	"trans": "เศษประสบการณ์ทีสูญหาย",
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
@@ -864,7 +864,7 @@
  	 	},
  	 	"tertiary": {
  	 	 	"name": {
- 	 	 	 	"trans": "อาวุธทำลายร้าง",
+ 	 	 	 	"trans": "อาวุธทำลายล้าง",
  	 	 	 	"eng": "Destructive Weapon"
  	 	 	}
  	 	},
@@ -910,7 +910,7 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "กล่องซัพพลาย [แก๊ง]",
+ 	 	 	 	"trans": "กล่อง Supply [แก๊ง]",
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
@@ -1020,11 +1020,11 @@
  	 	},
  	 	"backpack4": {
  	 	 	"name": {
- 	 	 	 	"trans": "กระเป๋าพนักงานสำนักงาน",
+ 	 	 	 	"trans": "กระเป๋าสำนักงาน",
  	 	 	 	"eng": "Employee Office Case"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "กรณีสำนักงานปัญหามาตรฐานมันมีป้ายกำกับที่มีการพิมพ์เล็กน้อยกับ \"Arasaka\" บนมัน \r\n         ในขณะที่มันยังเสี่ยวและมีช่องไฮเทคและสล็อตสำหรับที่เก็บเอกสารมันไม่เหมาะสำหรับการพกพาอาวุธ \r\n         เพิ่มพื้นที่สินค้าคงคลังเมื่อติดตั้ง",
+ 	 	 	 	"trans": "กระเป๋าสำนักงานมาตรฐานที่มีตัวหนังสือกำกับว่า \"Arasaka\" ด้านหน้ากระเป๋า \r\n         ทำให้ดูพิเศษยิ่งขึ้นและมีช่องเก็บสุดไฮเทคที่ไว้สำหรับเก็บเอกสารไม่เหมาะสำหรับการพกพาอาวุธ \r\n         เพิ่มพื้นที่เก็บเอกสารเมื่อติดตั้ง",
  	 	 	 	"eng": "An standard issue office case, it has a label with whit print with \"Arasaka\" on it, \r\n        while it is specious and has some high tech compartment and slots for document storage, it is not not very suitable for carrying weapons\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
@@ -1034,7 +1034,7 @@
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ธ ปท. ใช้ทหารที่ออกแบบมาเพื่อพกพาอุปกรณ์ของคุณและติดตามคุณอย่างอิสระ \r\n         ด้วยขาที่แข็งแรงหกขาที่เลียนแบบการเคลื่อนไหวของแมงมุมและ AI ออนบอร์ดล่วงหน้า \r\n         มันสามารถติดตามคุณอย่างรวดเร็วและเงียบ ๆ ในขณะที่หลีกเลี่ยงการเข้าไปในภารกิจใดก็ตามที่คุณแสดง",
+ 	 	 	 	"trans": "ธ ปท. ใช้ทหารที่ออกแบบมาเพื่อพกพาอุปกรณ์ของคุณและติดตามคุณอย่างอิสระ \r\n         ด้วยขาที่แข็งแรงหกขาที่เลียนแบบการเคลื่อนไหวของแมงมุมและ AI ออนบอร์ดล่วงหน้า \r\n         มันสามารถติดตามคุณอย่างรวดเร็วและเงียบ มันจะหลีกเลี่ยงไม่เข้าไปขวางภารกิจใดก็ตามที่คุณกำลังทำอยู่",
  	 	 	 	"eng": "An military used bot designed to carry your equipments and follows you autonomously,\r\n        with it's six strong legs that imitates the movement of spiders and a advance onboard AI, \r\n        it can follow you swiftly and quietly while it avoids get in the way of whatever mission you are performing"
  	 	 	}
  	 	},
@@ -1120,11 +1120,11 @@
  	 	},
  	 	"upgradeResetShard": {
  	 	 	"name": {
- 	 	 	 	"trans": "โรงงานรีเซ็ต",
+ 	 	 	 	"trans": "โรงงานรีเซ็ตอุปกรณ์",
  	 	 	 	"eng": "Factory reset shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "เศษเก็บข้อมูลเริ่มต้นและอัลกอริทึมสำหรับอุปกรณ์นี้ใช้สำหรับการรีเซ็ตโรงงานของคุณ",
+ 	 	 	 	"trans": "เศษเก็บข้อมูลและอัลกอริทึมเริ่มต้นสำหรับอุปกรณ์นี้ ใช้สำหรับการรีเซ็ตอุปกรณ์ของคุณ",
  	 	 	 	"eng": "A shard stores default settings and algorithm for equipments, this is used for factory-resetting your equipments"
  	 	 	}
  	 	},
@@ -1244,7 +1244,7 @@
  	 	},
  	 	"increasePrint": {
  	 	 	"name": {
- 	 	 	 	"trans": "ทำงานในโรงงานการพิมพ์",
+ 	 	 	 	"trans": "ทำงานในโรงพิมพ์",
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
@@ -1320,17 +1320,17 @@
  	 	},
  	 	"clanDecryptShard": {
  	 	 	"name": {
- 	 	 	 	"trans": "ถอดรหัสหน่วยความจำหน่วยความจำ",
+ 	 	 	 	"trans": "ถอดรหัสหน่วยความจำ",
  	 	 	 	"eng": "Decrypt memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ถอดรหัสหน่วยความจำหน่วยความจำที่คุณพบเพื่อดึงข้อมูล Intel ที่เป็นประโยชน์",
+ 	 	 	 	"trans": "ถอดรหัสหน่วยความจำที่คุณพบเพื่อดึงข้อมูล Intel ที่เป็นประโยชน์",
  	 	 	 	"eng": "Decrypt a memory shard to retrieve useful intel."
  	 	 	}
  	 	},
  	 	"clanOccupation": {
  	 	 	"name": {
- 	 	 	 	"trans": "เสริมการยึดครองที่ Shangri-La",
+ 	 	 	 	"trans": "เสริมกำลังที่ Shangri-La",
  	 	 	 	"eng": "Reinforce occupation at Shangri-la"
  	 	 	},
  	 	 	"description": {
@@ -1354,13 +1354,13 @@
  	 	 	 	"eng": "Collect Protection Fees"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ขำขานเจ้าหน้าที่ของรัฐและ SLPD และเก็บค่าธรรมเนียมการคุ้มครองจากเจ้าของธุรกิจและประชาชนใน Shangri-Lah บางทีคุณอาจจะได้รับรายการมหากาพย์จากพวกเขา? (ยอดสองแก๊งสุดพิเศษ)",
+ 	 	 	 	"trans": "ติดสินบนจ้าหน้าที่ของรัฐและ SLPD และเก็บค่าธรรมเนียมการคุ้มครองจากเจ้าของธุรกิจและประชาชนใน Shangri-Lah บางทีคุณอาจจะได้รับ Epic item จากพวกเขา? (พิเศษเฉพาะท็อปสองแก๊งในกระดานอันดับ)",
  	 	 	 	"eng": "Bribe government officials and the SLPD to collect protection fees from business owners and citizens in Shangri-La. Maybe you’ll get some EPIC items from them? (Exclusive to the Top 2 Gangs on the Occupation Leaderboard"
  	 	 	}
  	 	},
  	 	"globalQuest": {
  	 	 	"name": {
- 	 	 	 	"trans": "แฮก SL Data ป้อมปราการ",
+ 	 	 	 	"trans": "แฮกปราการ SL Data",
  	 	 	 	"eng": "Hack SL Data Fortress"
  	 	 	},
  	 	 	"description": {
@@ -1429,7 +1429,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "ดำดิ่งไปในดันเจี้ยนเพื่อรับค่าประสบการณ์และของ!\r\n                        อย่าลืมซื้อไอเท็มฟื้นฟู! คุณจะไม่ได้รับการฟื้นฟูหลังจากการต่อสู้ในดันเจี้ยน",
+ 	 	 	 	"trans": "พร้อมรึยัง? คุณสามารถทดสอบพลังของคุณในดันเจี้ยนธรรมดา!\r\n                        แต่อย่าลืมซื้อไอเท็มฟื้นฟูล่ะ! คุณจะไม่ได้รับการฟื้นฟูหลังจากการต่อสู้ในดันเจี้ยน",
  	 	 	 	"eng": "Are you ready? you can test your strength out with normal dungeon, the easiest one.\r\n                        Remember to bring healing item! you won't heal after fights in dungeon"
  	 	 	}
  	 	},
@@ -1474,7 +1474,7 @@
  	 	 	}
  	 	},
  	 	"buttonTut": {
- 	 	 	"trans": "คุณคิดว่าคุณแข็งแกร่งพอหรือไม่? ใช้ศัตรูที่แข็งแกร่งในคุกใต้ดิน! \r\n                         อย่าลืมซื้อไอเท็มการรักษา! คุณจะไม่ฟื้นหลังจากการต่อสู้ในดันเจี้ยน",
+ 	 	 	"trans": "คุณคิดว่าคุณแข็งแกร่งพอรึยัง? ที่จะสู้กับศัตรูที่แข็งแกร่งในดันเจี้ยน! \r\n                         อย่าลืมซื้อไอเท็มการรักษา! คุณจะไม่ฟื้นหลังจากการต่อสู้ในดันเจี้ยน",
  	 	 	"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
  	 	},
  	 	"enemyInRoomDoorError": {
@@ -1590,7 +1590,7 @@
  	 	 	 	"eng": "Kill enemy"
  	 	 	},
  	 	 	"getMoney": {
- 	 	 	 	"trans": "ต้องได้รับบิตคอยน์",
+ 	 	 	 	"trans": "ได้รับบิตคอยน์",
  	 	 	 	"eng": "Acquire Bitcoin"
  	 	 	},
  	 	 	"print": {
@@ -1604,7 +1604,7 @@
  	 	 	 	"eng": "Newbie with benefit"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "ฆ่าศัตรูบางคนและรับรายการเต็มรูปแบบให้คุณเริ่มต้นการเดินทางของคุณ",
+ 	 	 	 	"trans": "ฆ่าศัตรูบางคนและรับเซ็ตไอเทมให้คุณเริ่มต้นการเดินทางของคุณ",
  	 	 	 	"eng": "Kill some enemies and get a full set of items for you to start your journey"
  	 	 	}
  	 	},
@@ -1657,7 +1657,7 @@
  	 	 	},
  	 	 	"social": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "ทางสังคม",
+ 	 	 	 	 	"trans": "สังคม",
  	 	 	 	 	"eng": "social"
  	 	 	 	}
  	 	 	},
@@ -1715,7 +1715,7 @@
  	 	 	 	"eng": "rewards"
  	 	 	},
  	 	 	"rewardAvailable": {
- 	 	 	 	"trans": "คลิกเพื่อรวบรวมรางวัล",
+ 	 	 	 	"trans": "คลิกเพื่อรับรางวัล",
  	 	 	 	"eng": "Click to collect reward"
  	 	 	},
  	 	 	"viewDetails": {
@@ -1782,7 +1782,7 @@
  	 	 	},
  	 	 	"gangAction": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "การกระทำทางแก๊ง",
+ 	 	 	 	 	"trans": "การกระทำของแก๊ง",
  	 	 	 	 	"eng": "Gang Actions"
  	 	 	 	},
  	 	 	 	"kick": {
@@ -1800,7 +1800,7 @@
  	 	 	},
  	 	 	"playerActions": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "การกระทำทางผู้เล่น",
+ 	 	 	 	 	"trans": "การกระทำของผู้เล่น",
  	 	 	 	 	"eng": "Player Actions"
  	 	 	 	},
  	 	 	 	"sendPrivateMsg": {
@@ -1875,7 +1875,7 @@
  	 	 	},
  	 	 	"stall": {
  	 	 	 	"sellItemButton": {
- 	 	 	 	 	"trans": "วางสินค้าในการขาย",
+ 	 	 	 	 	"trans": "วางขายสินค้า",
  	 	 	 	 	"eng": "Put Item On Sale"
  	 	 	 	},
  	 	 	 	"selectItemForSale": {
@@ -1887,7 +1887,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "ใช้ Bitcoins เพื่อเพิ่มจำนวนรายการที่คุณสามารถใส่ในแผงขายของคุณในเวลาเดียวกัน",
+ 	 	 	 	"trans": "ใช้ Bitcoins เพื่อเพิ่มจำนวนรายการที่คุณสามารถใส่ในแผงขายของคุณพร้อมกันได้",
  	 	 	 	"eng": "Spend Bitcoins to increase how many items you can put in your stall at the same time"
  	 	 	},
  	 	 	"cantEnterError": {
@@ -1924,15 +1924,15 @@
  	 	 	 	"eng": "You need to be at least level ${minLevel} to send chat messages"
  	 	 	},
  	 	 	"spamBlock": {
- 	 	 	 	"trans": "โปรดอย่าส่งข้อความที่ไร้ความหมายสแปมจะถูกปิดเสียง",
+ 	 	 	 	"trans": "โปรดอย่าส่งข้อความที่ไร้ความหมายหรือสแปม",
  	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
  	 	 	},
  	 	 	"repeatBlock": {
- 	 	 	 	"trans": "โปรดอย่าส่งข้อความเดียวกันซ้ำ ๆ สแปมจะถูกปิดเสียง",
+ 	 	 	 	"trans": "โปรดอย่าส่งข้อความเดียวกันซ้ำ ๆ หรือสแปม",
  	 	 	 	"eng": "Please do not send the same message repeatedly, spams will be muted."
  	 	 	},
  	 	 	"shortChatBlock": {
- 	 	 	 	"trans": "โปรดอย่าส่งข้อความสั้นลองประโยคที่ยาวขึ้นแทน",
+ 	 	 	 	"trans": "โปรดอย่าส่งข้อความสั้น ลองประโยคที่ยาวกว่านี้",
  	 	 	 	"eng": "Please do not send short messages, try a longer sentence instead."
  	 	 	},
  	 	 	"notAtBottom": {
@@ -1940,7 +1940,7 @@
  	 	 	 	"eng": "You are looking at old messages"
  	 	 	},
  	 	 	"linksNotAllowed": {
- 	 	 	 	"trans": "ไม่อนุญาตลิงก์",
+ 	 	 	 	"trans": "ไม่อนุญาตเชื่อมต่อ",
  	 	 	 	"eng": "Links are not allowed"
  	 	 	},
  	 	 	"replyTo": {
@@ -1957,7 +1957,7 @@
  	 	 	 	"eng": "Profile"
  	 	 	},
  	 	 	"update": {
- 	 	 	 	"trans": "อัปเดรต",
+ 	 	 	 	"trans": "อัปเดต",
  	 	 	 	"eng": "Updates"
  	 	 	},
  	 	 	"tutorial": {
@@ -2058,19 +2058,19 @@
  	 	 	},
  	 	 	"disableVictoryScreen": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "ปิดหน้าจอแสดงชัยชนะ",
+ 	 	 	 	 	"trans": "ปิดการใช้งานหน้าจอแสดงชัยชนะ",
  	 	 	 	 	"eng": "Disable Victory Screen"
  	 	 	 	}
  	 	 	},
  	 	 	"disableSkipRespectNoti": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "ปิดใช้งานการแจ้งเตือนการข้ามความเคารพ",
+ 	 	 	 	 	"trans": "ปิดใช้งานการแจ้งเตือนการข้ามการทำความเคารพ",
  	 	 	 	 	"eng": "Disable Skip Respect Notification"
  	 	 	 	}
  	 	 	},
  	 	 	"disableChatEffect": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "ปิดใช้งานแชท",
+ 	 	 	 	 	"trans": "ปิดใช้งานเอฟเฟคแชท",
  	 	 	 	 	"eng": "Disable Chat Effect"
  	 	 	 	},
  	 	 	 	"description": {
@@ -2081,7 +2081,7 @@
  	 	},
  	 	"captcha": {
  	 	 	"title": {
- 	 	 	 	"trans": "ใส่รหัสระบบเพื่อดำเนินต่อ",
+ 	 	 	 	"trans": "ใส่รหัสเพื่อดำเนินต่อ",
  	 	 	 	"eng": "Enter system passcode to proceed"
  	 	 	}
  	 	},
@@ -2116,14 +2116,14 @@
  	 	"clan": {
  	 	 	"selectDepositAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "กรุณาใส่จำนวนเงินที่คุณต้องการฝากเงิน",
+ 	 	 	 	 	"trans": "กรุณาใส่จำนวนเงินที่คุณต้องการฝาก",
  	 	 	 	 	"eng": "Please enter amount you want to deposit"
  	 	 	 	},
  	 	 	 	"detail": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} Bitcoin จะได้รับเงินฝากเข้าบัญชีแก๊งของคุณสิ่งนี้ไม่สามารถย้อนกลับได้",
+ 	 	 	 	 	"trans": "${amount} Bitcoin จะได้รับเงินฝากเข้าบัญชีแก๊งของคุณสิ่งนี้ไม่สามารถเอากลับได้",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
@@ -2159,7 +2159,7 @@
  	 	 	 	"eng": "resource critical"
  	 	 	},
  	 	 	"insufficientFound": {
- 	 	 	 	"trans": "งบไม่เพียงพอ",
+ 	 	 	 	"trans": "เงินทุนไม่เพียงพอ",
  	 	 	 	"eng": "Insufficient Funds"
  	 	 	},
  	 	 	"insufficientResource": {
@@ -2194,7 +2194,7 @@
  	 	 	},
  	 	 	"occupation": {
  	 	 	 	"noClan": {
- 	 	 	 	 	"trans": "ไม่มีแก๊งค์ได้ครอบครองบริเวณนี้",
+ 	 	 	 	 	"trans": "ไม่มีแก๊งค์ที่ครอบครองบริเวณนี้",
  	 	 	 	 	"eng": "No gang has occupied this area yet"
  	 	 	 	}
  	 	 	}
@@ -2936,7 +2936,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"skippingPlayerCount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "เร่งผู้ใช้ ${skippingPlayerCount} ..",
+ 	 	 	 	 	"trans": "เหลืออีก ${skippingPlayerCount} คน..",
  	 	 	 	 	"eng": "Accelerating ${skippingPlayerCount} users.."
  	 	 	 	}
  	 	 	},
